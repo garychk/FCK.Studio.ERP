@@ -1,2 +1,2 @@
-# FCK.Studio.ERP
-FCK.Studio.ERP
+# FCKStudio.ERP
+FCKStudio.ERP
